@@ -540,7 +540,7 @@ a {
 }
 
 .p-how-to-use__step-title-top::after {
-	background: url(./img/step1-title-img.png) no-repeat center center/contain;
+	background: url(../img/step1-title-img.png) no-repeat center center/contain;
 	content: "";
 	display: inline-block;
 	height: 110px;
@@ -548,7 +548,7 @@ a {
 }
 
 .p-how-to-use__step-title-bottom::before {
-	background: url(./img/step2-title-img.png) no-repeat center center/contain;
+	background: url(../img/step2-title-img.png) no-repeat center center/contain;
 	content: "";
 	display: inline-block;
 	height: 110px;
@@ -917,7 +917,7 @@ td:nth-of-type(2) {
 }
 
 .p-qa__box-q::before {
-	background: url(./img/bg.png) no-repeat center center/cover;
+	background: url(../img/bg.png) no-repeat center center/cover;
 	content: "Q";
 	flex-shrink: 0;
 	font-size: 22px;
@@ -967,7 +967,7 @@ td:nth-of-type(2) {
 }
 
 .p-qa__box-content::before {
-	background: url(./img/bg2.png) no-repeat center center/cover;
+	background: url(../img/bg2.png) no-repeat center center/cover;
 	content: "A";
 	flex-shrink: 0;
 	font-size: 22px;
